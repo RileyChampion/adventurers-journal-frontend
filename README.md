@@ -25,6 +25,11 @@ D&amp;D notes for DMs and Party members all in one place
     - Name, image, description, socials/handles, edit/delete profile
 - AdventurerAPI
 
+## Architecture
+Basic system design
+![image](https://github.com/user-attachments/assets/46f9a736-4042-43db-adbf-ab2997442ae0)
+
+
 ## Version
 
 ## Credit
