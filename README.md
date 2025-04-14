@@ -27,7 +27,8 @@ D&amp;D notes for DMs and Party members all in one place
 
 ## Architecture
 Basic system design
-![image](https://github.com/user-attachments/assets/46f9a736-4042-43db-adbf-ab2997442ae0)
+
+<img width="812" alt="Pasted image 20250306013649" src="https://github.com/user-attachments/assets/fafb6bd2-5ab5-4166-8c6a-ff9463760a16" />
 
 
 ## Version
